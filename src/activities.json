@@ -1,0 +1,22 @@
+[
+  {
+    "Activity": "Learn a new language",
+    "Description": "Pick up 10 new phrases in a new language."
+  },
+  {
+    "Activity": "Listen to a new genre of music",
+    "Description": "Perhaps it is time to experience a genere of music you have never heard of before."
+  },
+  {
+    "Activity": "Have a picnic in the local park",
+    "Description": "Pack some food and get out of the house!"
+  },
+  {
+    "Activity": "Read a book",
+    "Description": "Has it been some time since you read a book? Time to pick up one!"
+  },
+  {
+    "Activity": "Play a game",
+    "Description": "Nothing beats a good gaming time."
+  }
+]
