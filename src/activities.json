@@ -18,5 +18,25 @@
   {
     "Activity": "Play a game",
     "Description": "Nothing beats a good gaming time."
+  },
+  {
+    "Activity": "Research a different culture",
+    "Description": "Read up on different cultures in the world."
+  },
+  {
+    "Activity": "Watch a movie",
+    "Description": "Grab some popcorn and watch a movie."
+  },
+  {
+    "Activity": "Excercise",
+    "Description": "Do some exercise, such as yoga or go for a jog."
+  },
+  {
+    "Activity": "Do some household chores",
+    "Description": "Better now than later."
+  },
+  {
+    "Activity": "Take a walk in the park",
+    "Description": "It's a good way to relax."
   }
 ]
